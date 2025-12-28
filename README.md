@@ -68,3 +68,6 @@ Install Dependencies:
 
 ###6. Run Application 
 "python run_resort.py"
+
+
+###for better understanding, go through the document (Assignment_summary) shared.
